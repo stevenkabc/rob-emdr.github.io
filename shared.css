@@ -1,0 +1,38 @@
+body {
+  font-family: "Helvetica Neue",cursive;
+  background: "#9CC";
+}
+
+#index {
+  text-align: center;
+  font-size: 40;
+  font-weight: 200;
+  line-height: 1.7;
+  background: "#9CC";
+}
+
+#index ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#index a {
+  background: #eee;
+  color: #000;
+  padding: 0.125em 0.25em;
+  text-decoration: none;
+}
+
+#index p {
+  font-size: 50%;
+  margin: 200;
+  color: #FFF;
+
+#index a:hover {
+  background: #aaa;
+}
+
+#index a:visited {
+  color: #faf;
+}
